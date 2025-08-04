@@ -1,0 +1,18 @@
+print ("hello")
+print ('hello')
+b = "Hello, World!"
+print (b[2:5])
+thislist = ["apple", "banana", "cherry"]
+print(thislist[2])
+list1 = ["apple", "banana", "cherry"]
+list2 = [1, 5, 7, 9, 3]
+list3 = [True, False, False]
+print(list1)
+print(list2)
+print(list3)
+thislist = ["apple", "banana", "cherry"]
+thislist.append("orange")
+print(thislist)
+txt = "The best things in life are free!"
+if "free" in txt:
+  print("Yes, 'free' is present.")
