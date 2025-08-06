@@ -16,3 +16,8 @@ print(thislist)
 txt = "The best things in life are free!"
 if "free" in txt:
   print("Yes, 'free' is present.")
+fruits = ("apple", "banana", "cherry", "strawberry", "raspberry")
+(green, yellow, *red) = fruits
+print(green)
+print(yellow)
+print(red)
