@@ -5,4 +5,3 @@ print (float(a))
 c = 35.88
 print (float(c))
 print (int (c))
-print (type (c))
